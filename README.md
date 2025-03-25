@@ -63,6 +63,6 @@ Merging combines changes from different branches into one branch.
 
 ## Notes
 - A `.gitignore` file tells Git which files to ignore. This is useful for preventing unnecessary files (logs, compiled binaries, API keys, etc.) from being tracked.
-- 
+
 
 
